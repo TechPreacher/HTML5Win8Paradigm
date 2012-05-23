@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'segoeui';
+    src: url('fonts/segoeuil-webfont.eot');
+    src: url('fonts/segoeuil-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/segoeuil-webfont.woff') format('woff'),
+         url('fonts/segoeuil-webfont.ttf') format('truetype'),
+         url('fonts/segoeuil-webfont.svg#SegoeUILight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+    font-family: 'segoeui';
+}
+
+.tab {
+    border: 0px;
+    border-radius: 5px;
+    width: 117px;
+}
+
+.page {
+    border-radius: 10px;
+}
+

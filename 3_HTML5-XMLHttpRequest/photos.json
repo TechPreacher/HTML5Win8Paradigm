@@ -1,0 +1,26 @@
+[
+    {
+        "title" : "Amidala",
+        "src" : "images/identity_amidala.jpg"
+    },
+    
+    {
+        "title" : "C3PO",
+        "src" : "images/identity_c3po.jpg"
+    },
+    
+    {
+        "title" : "Darth Vader",
+        "src" : "images/identity_vader.jpg"
+    },
+    
+    {
+        "title" : "Storm Trooper",
+        "src" : "images/identity_trooper.jpg"
+    },
+    
+    {
+        "title" : "Yoda",
+        "src" : "images/identity_yoda.jpg"
+    }
+]
